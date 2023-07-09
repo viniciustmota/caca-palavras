@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\bin\Debug\Caça Palavras.exe.config
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\bin\Debug\Caça Palavras.exe
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\bin\Debug\Caça Palavras.pdb
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça Palavras.csproj.AssemblyReference.cache
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça_Palavras.Form1.resources
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça_Palavras.Properties.Resources.resources
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça Palavras.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça Palavras.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça Palavras.exe
+C:\Users\Fatec\Desktop\caça palavras\Caça Palavras\Caça Palavras\obj\Debug\Caça Palavras.pdb
